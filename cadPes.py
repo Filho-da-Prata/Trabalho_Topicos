@@ -8,7 +8,7 @@ window.resizable(False, False)
 
 # -----------------------Class Entry----------------------- #
 
-
+# evaldo é um boiola 
 class entrada:
     def __init__(self, container):
         self.et = Entry(container)
